@@ -5,7 +5,9 @@ If you are new to Garlicoin or cryptomining in general, this program makes thing
 
 Then just paste in your pool and wallet addresses and you should be good to go!
 
-At this time, Gooey Bread only supports CCMiner with Nvidia GPUs on (Ubuntu) Linux. 
+At this time, Gooey Bread only supports CCMiner with Nvidia GPUs on (Ubuntu) Linux, though it is possible to make this work on Windows with some modifications. 
+
+**Warning**: This software has had only limited testing and may not work as designed. Remember that this software is provided "as-is" and that we are not responsible for possible damage to your system. 
 
 # Requirements
 
